@@ -10,6 +10,7 @@ class UnifiedPin:
             if self.is_virtual: self.obj.output(val=val)
             else: self.obj.value(val)
         else:
+            # I think the pullup issue might not actually exist, it was being inverted twice somehow? passing .value(pullup) enables the pullup rather than reading it
             # handle polarity
             if not self.is_virtual and pullup:
                 return not self.obj.value() # invert for pullup
