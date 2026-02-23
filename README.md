@@ -104,6 +104,13 @@ Absolutely enormous thanks to the Sanjay Mortimer Foundation for supporting me i
 TODO: implement USB device identity, to work with buzzin.live etc
 
 ## Photos
+### Kitsune++ V1.0/V1.1
+
+![PXL_20260223_122147049](https://github.com/user-attachments/assets/cc30e9a9-ee57-4698-b1a2-6df9ffc8bd78)
+![PXL_20260223_122412445](https://github.com/user-attachments/assets/9f603419-a135-41c9-a112-88642774fa0d)
+![PXL_20260223_122135966](https://github.com/user-attachments/assets/05234aa3-94bf-436e-81b2-419a985544ca)
+![v1 vs v1point1](https://github.com/user-attachments/assets/0654f676-305e-4bca-a9a9-0293ce4c27c4)
+
 ### Kitsune
 ![PXL_20241107_222718396](https://github.com/user-attachments/assets/b72bb5ca-9fba-4505-bb74-53a440e6cba6)
 ![PXL_20241111_130336351 MP](https://github.com/user-attachments/assets/2092b343-8ded-4a94-a322-e174ae3cba6e)
