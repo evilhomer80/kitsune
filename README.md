@@ -26,7 +26,10 @@ After plugging in the buzzers, press the CONTROL box to start the main loop. Thi
   - All of the above, with a 27V buzzer and AO3400 MOSFET
   - This is **_loud as fuck_** - you can decrease the volume in software if necessary
   - Can be effectively downgraded to a v1.0 by cutting the 27V and boost converter jumpers (rear of board) and bridging the 5V jumper
-      
+
+
+### Beta versions (discontinued)
+
 - Kitsune v0.3
   - One central box with speaker and USB-C connection, PJ306 metal audio jacks to connect buzzers
   - Nine 'tails' - smaller buzzer boxes connected via 3.5mm audio cables
@@ -41,34 +44,15 @@ After plugging in the buzzers, press the CONTROL box to start the main loop. Thi
 
 
 
-## Older versions, no longer available:
-- Kitsune v0.1 - no longer available
-  - One central box with speaker and USB connection
-  - Nine 'tails' - smaller buzzer boxes connected via 3.5mm audio cables
-  - One tail is used as the moderator's control box to initialise and reset the system
-  - Complete lockout controlled by Raspberry Pi Pico
-  - Debug jumper to test all ports and boxes
-   
-- Kitsune v0.2 - no longer available
-  - All of the above, plus:
-  - Additional onboard LEDS to provide a secondary indication mechanism
-  - New JST-XH port to allow external battery usage (tested with 1x9V, should work with multiple AAs in series)
-  - New JST-XH port breaking out UART pins
-  - Debug jumper replaced with 6-way DIP switch, controlling (left to right)
-    - Debug mode
-    - Speaker mute
-    - Speaker test
-    - Automatic reset
-
 ## Prices:
 
-Kitsune++ v1.1.0 - £185 (comes with 12 buzzers and 12 cables)
+Kitsune++ v1.1.0 - £175 (comes with 12 buzzers and 12 cables)
 
-Kitsune++ v1.0.0 - £180 (comes with 12 buzzers and 12 cables)
+Kitsune++ v1.0.0 - £170 (comes with 12 buzzers and 12 cables)
 
-Kitsune v0.3 - £150 (comes with 9 buzzers and 9 cables)
+Kitsune v0.3 - £150 (comes with 9 buzzers and 9 cables) (discontinued)
 
-Kitsune++ v0.1 - £175 (comes with 12 buzzers and 12 cables)
+Kitsune++ v0.1 - £175 (comes with 12 buzzers and 12 cables) (discontinued)
 
 Free collection at certain UK tournaments or domestic shipping £5 (£7.50 for set of two)
 
